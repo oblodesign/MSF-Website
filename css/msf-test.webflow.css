@@ -2433,11 +2433,15 @@
 }
 
 .text-block-16:active {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .text-block-16.enabled {
   text-decoration: underline;
+}
+
+.text-block-16.submenubutt:active {
+  text-decoration: none;
 }
 
 .link-block-5 {
